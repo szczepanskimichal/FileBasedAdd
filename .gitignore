@@ -1,0 +1,11 @@
+# JetBrains IDE
+.idea/
+# .NET build outputs
+bin/
+obj/
+# User-specific files
+*.user
+*.suo
+# Build results
+[Dd]ebug/
+[Rr]elease/
